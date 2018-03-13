@@ -24,7 +24,7 @@ class ViewController: UIViewController {
 
     @IBAction func Pulsante(_ sender: UIButton) {
         contatore = contatore + 1
-        Messaggio.text = "prova \(contatore)"
+        Messaggio.text = "prova Cacca"
     }
     
 }
